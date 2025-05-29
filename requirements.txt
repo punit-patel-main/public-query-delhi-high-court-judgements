@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+requests
+pandas
+tqdm
+langchain
+langchain-community
+langchain-pinecone
+langchain-huggingface
+pinecone-client
+huggingface-hub
+transformers
+sentence-transformers
